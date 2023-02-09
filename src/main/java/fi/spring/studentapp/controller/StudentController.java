@@ -2,7 +2,6 @@ package fi.spring.studentapp.controller;
 
 import fi.spring.studentapp.model.Student;
 import fi.spring.studentapp.service.IStudentService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
